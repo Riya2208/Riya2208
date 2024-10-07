@@ -20,7 +20,7 @@
 <h3 align="left">Achievements:</h3>
 <p align="left">
   <a href="https://holopin.io/@riya2208">
-    <img src="https://holopin.me/riya2208" alt="Holopin Badges" />
+    <img src="https://holopin.me/riya2208" alt="Holopin Badges" /> 
   </a>
   <br>
 </p>
