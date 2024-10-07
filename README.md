@@ -23,8 +23,6 @@
     <img src="https://holopin.me/riya2208" alt="Holopin Badges" />
   </a>
   <br>
-  ![Hacktoberfest 2024 Badge 1](https://img.shields.io/badge/Hacktoberfest-2024-blue?logo=hacktoberfest&logoColor=white)
-  ![Hacktoberfest 2024 Badge 2](https://img.shields.io/badge/Hacktoberfest-Finalist-orange?logo=hacktoberfest&logoColor=white)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
