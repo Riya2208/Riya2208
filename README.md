@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riya2208&label=Profile%20views&color=0e75b6&style=flat" alt="riya2208" /> </p>
 
-- 🔭 I’m currently working on **Voice Assistant**
+- 🔭 I’m currently working on **Voice Assistant** 
 - 🌱 I’m currently learning **Python**
 - 📫 How to reach me **riyathakare37@gmail.com**
 - ⚡ Fun fact **I enjoy reading self-development books, and one of my favorite books is How to Win Friends and Influence People.**
