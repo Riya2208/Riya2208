@@ -13,6 +13,17 @@
 - ⚡ **Fun fact:** I enjoy reading self-development & cybersecurity books  
 
 
+<h3>👨‍💻 Cybersecurity Home Labs:</h3>
+
+- <b>Firewalls</b>
+   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+ 
+- <b>Signature Based Detection Lab</b>
+   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+
+ - <b>Exploit Lab</b>
+   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+ 
 ### Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-t-571175244/) 
