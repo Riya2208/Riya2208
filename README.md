@@ -43,14 +43,3 @@
   CEH Candidate | Hacktoberfest Level 4 Badge | Open-source Contributions
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=riya2208&show_icons=true&locale=en" alt="riya2208" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riya2208&" alt="riya2208" />
-</p>
-<p>&nbsp;</p>
-
-<h3 align="left">Languages & Top Tools:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riya2208&layout=compact&hide=html" alt="riya2208" />
-</p>
