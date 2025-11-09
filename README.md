@@ -59,6 +59,14 @@
 <h3>CEH Certificate</h3>
 <a href="" target="_blank">View Certificate</a>
 
+<h3>Palo Alto Networks Academy Security Operation Center(SOC)</h3>
+<a href="" target="_blank">View Certificate</a>
+
+<h3>Mastercard - Cybersecurity Job Simulation Forage</h3>
+<a href="" target="_blank">View Certificate</a>
+
+<h3>Introduction to Kali Linux</h3>
+<a href="" target="_blank">View Certificate</a>
 
   </div>
 </section>
