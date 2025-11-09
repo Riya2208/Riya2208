@@ -27,12 +27,27 @@
 
 <h3 align="left">Skills & Tools:</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/wireshark.svg" alt="Wireshark" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/splunk.svg" alt="Splunk" width="40" height="40"/>
+   <a href="https://www.splunk.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Splunk-FF5733?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/>
+  </a>
+  <a href="https://www.virustotal.com/" target="_blank">
+    <img src="https://img.shields.io/badge/VirusTotal-FF0000?style=for-the-badge&logo=virustotal&logoColor=white" alt="VirusTotal"/>
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  </a>
+  <a href="https://www.wireshark.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Wireshark-0099FF?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  </a>
+  <a href="https://www.crowdstrike.com/" target="_blank">
+    <img src="https://img.shields.io/badge/EDR-000000?style=for-the-badge&logo=crowdstrike&logoColor=white" alt="EDR"/>
+  </a>
+  <a href="https://www.microsoft.com/windows/" target="_blank">
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
+  </a>
 </p>
+
+
 
 <h3 align="left">Achievements & Certifications:</h3>
 <p align="left">
