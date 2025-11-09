@@ -56,7 +56,12 @@
   <a href="https://holopin.io/@riya2208">
     <img src="https://holopin.me/riya2208" alt="Holopin Badges" /> 
   </a>
-  <br>
-  CEH Candidate | Hacktoberfest Level 4 Badge | Open-source Contributions
+<h3>CEH Certificate</h3>
+<a href="" target="_blank">View Certificate</a>
+
+
+  </div>
+</section>
+
 </p>
 
