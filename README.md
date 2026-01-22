@@ -1,7 +1,7 @@
 ![Header](https://github.com/riya2208/portfolio-assets/raw/main/cybersecurity-header.jpg)
 
 <h1 align="center">Hi 👋, I'm Riya Thakare</h1>
-<h3 align="center">Service Desk Analyst | IT Support | Technical Support Enthusiast</h3>
+<h3 align="center">Entry-Level Deskside Technician | IT Support | ServiceNow | ITIL</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=riya2208&label=Profile%20views&color=0e75b6&style=flat" alt="riya2208" />
@@ -9,78 +9,95 @@
 
 ---
 
-### 👩‍💻 About Me
+## 👩‍💻 Professional Summary
 
-- 💻 **Aspiring Service Desk / IT Support Analyst**
-- 🛠️ Hands-on experience with **troubleshooting, log analysis, system access, and endpoint security**
-- 🌱 Currently strengthening skills in **IT operations, user support, ticket handling, and system monitoring**
-- 📚 Strong interest in **learning enterprise IT environments**
-- 📫 **Contact:** riyathakare37@gmail.com
-- ⚡ **Fun fact:** I enjoy reading self-development & technology books
+Entry-level **Deskside / Service Desk Technician** with hands-on experience providing **1st level IT support** in simulated enterprise environments. Skilled in **Windows & SaaS application support, Active Directory user management, hardware and peripheral troubleshooting**, and **ServiceNow ITSM ticket handling** following **ITIL-based processes**.
 
----
+Strong focus on **clear end-user communication, SLA adherence, proper documentation, and timely issue resolution** in fast-paced service desk environments.
 
-### 🧰 Technical Skills (Service Desk Focus)
-
-- **Operating Systems:** Windows, Linux  
-- **User & Access Management:** Active Directory basics, authentication troubleshooting  
-- **Networking Basics:** IP addressing, SSH, firewall rules  
-- **Monitoring & Logs:** Splunk (log analysis & investigation)  
-- **Security Awareness:** Endpoint security, alerts triage, threat identification  
-- **Tools:** Wireshark, VirusTotal, EDR concepts  
-- **Soft Skills:** Customer communication, issue documentation, problem-solving
+📍 Pune, Maharashtra  
+📫 **Email:** riyathakare37@gmail.com  
 
 ---
 
-### 🧪 Hands-On Projects & Labs
+## 🧰 Core Technical Skills
 
-> These projects demonstrate my **practical troubleshooting, system analysis, and IT support skills**
+### 🔹 Service Desk & IT Support
+- 1st Level IT Support – Windows, macOS, SaaS Applications
+- Hardware & Peripheral Troubleshooting (Laptop, Desktop, Printers)
+- VPN & Wi-Fi Connectivity Troubleshooting
+- User Communication & Issue Documentation
+- SLA-Based Issue Resolution
 
-#### 🔹 IT & Security Labs
-- 🔧 **Active Directory Home Lab**  
-  👉 User creation, authentication, access troubleshooting  
-  https://github.com/Riya2208/ActiveDirectoryLab
+### 🔹 Identity & Access Support
+- Active Directory – Password Reset, Account Unlock
+- Basic Permission & Access Management
+- Office 365 / Azure AD – User Support
 
-- 📊 **SSH Log Analysis using Splunk**  
-  👉 Identifying login issues, failed authentication, unusual activity  
-  https://github.com/Riya2208/SSH_Log_Analysis
-
-- 🔥 **Host-Based Firewall Lab**  
-  👉 Rule configuration, traffic blocking, system protection  
-  https://github.com/Riya2208/Firewall_lab
-
-- 🛡️ **Signature-Based Detection Lab**  
-  👉 Alert detection, log review, event understanding  
-  https://github.com/Riya2208/Signature_Based_Det_Lab
+### 🔹 ITSM & Processes
+- ServiceNow – Incident & Request Management
+- ITIL v3 Fundamentals
+- Ticket Escalation & Knowledge Base Updates
 
 ---
 
-### 🔗 Connect With Me
+## 🧪 Hands-On Lab Experience (IT Support / Service Desk)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/riya-t-571175244/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/riy55523)
+> Self-initiated home labs designed to simulate **real-world service desk scenarios**
+
+### 🔧 IT Infrastructure & End-User Support Labs
+
+- 🖥 **Active Directory Home Lab**  
+  - Simulated end-user account issues  
+  - Performed password resets, account unlocks, and access verification  
+  - Practiced user onboarding and troubleshooting login problems  
+  👉 https://github.com/Riya2208/ActiveDirectoryLab
+
+- 📊 **System & Access Log Review (Splunk)**  
+  - Analyzed system and authentication logs to identify login failures  
+  - Assisted in troubleshooting access-related issues using log data  
+  - Supported incident investigation and resolution documentation  
+  👉 https://github.com/Riya2208/SSH_Log_Analysis
+
+- 🔥 **Host-Based Firewall Configuration Lab**  
+  - Configured and tested firewall rules  
+  - Verified network access issues and connectivity behavior  
+  - Supported troubleshooting of blocked services  
+  👉 https://github.com/Riya2208/Firewall_lab
+
+- 🛠 **System Monitoring & Event Review Lab**  
+  - Reviewed system alerts and events  
+  - Practiced identifying normal vs abnormal system behavior  
+  - Documented findings for escalation scenarios  
+  👉 https://github.com/Riya2208/Signature_Based_Det_Lab
 
 ---
 
-### 🛠 Skills & Tools
+## 🛠 Technical Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Splunk-FF5733?style=for-the-badge&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-0099FF?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VirusTotal-FF0000?style=for-the-badge&logo=virustotal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Endpoint%20Security-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Office%20365-0078D4?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ServiceNow-00A1E0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🏆 Certifications & Achievements
+## 🎓 Education
 
-- 🏅 **CEH – Certified Ethical Hacker**
-- 🏅 **Palo Alto Networks Academy – SOC Fundamentals**
-- 🏅 **Mastercard Cybersecurity Job Simulation (Forage)**
-- 🏅 **Introduction to Kali Linux**
+**Bachelor of Computer Application (BCA)**  
+Shri Shivaji Science College, Amravati  
+SGBAU University | 2022 – 2025
+
+---
+
+## 📜 Certifications
+
+- Google IT Support Professional Certificate – *In Progress*  
+  *(IT Support, Operating Systems, Networking Basics, System Administration & Customer Support)*
 
 <p align="left">
   <a href="https://holopin.io/@riya2208">
@@ -90,10 +107,10 @@
 
 ---
 
-### 🎯 Career Objective
+## 🎯 Career Objective
 
-To begin my career as a **Service Desk / Technical Support Analyst**, where I can:
-- Support end users efficiently  
-- Troubleshoot technical issues  
-- Gain exposure to enterprise IT environments  
-- Grow into advanced IT or security roles over time
+To begin my career as a **Deskside / Service Desk Technician**, where I can:
+- Provide reliable first-level technical support
+- Assist users with hardware, software, and access issues
+- Follow ITIL processes and SLA requirements
+- Grow within enterprise IT operations
