@@ -1,4 +1,3 @@
-![Header](https://github.com/riya2208/portfolio-assets/raw/main/cybersecurity-header.jpg)
 
 <h1 align="center">Hi 👋, I'm Riya Thakare</h1>
 <h3 align="center">Service Desk Analyst (L1) | B2B User Support | Ticket Handling & SLA Adherence</h3>
