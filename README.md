@@ -33,4 +33,39 @@ Strong communication skills with clear awareness of **SLA / TAT adherence**, cus
 ### 🔹 Technical Support (L1 Scope)
 - Windows OS basic troubleshooting
 - Email & browser issue resolution
-- Basic application & access-related
+- Basic application & access-related issues
+- User guidance & follow-ups
+
+### 🔹 Professional Skills
+- Clear verbal & written communication
+- Active listening & empathy
+- Documentation & resolution notes
+- Customer experience focus
+
+---
+
+## 🧪 Practical Exposure & Training
+
+### IT Help Desk Fundamentals – TCM Security  
+*(Coursework & Practical Exposure)*
+
+- Gained hands-on exposure to **IT Help Desk operations** and L1 user support
+- Acted as **first point of contact** in simulated service desk scenarios
+- Handled user queries via **calls, email, chat, and ticketing portals**
+- Learned **incident & request management lifecycle** in ITSM environments
+- Practiced ticket **logging, categorization, prioritization, and escalation**
+- Performed basic troubleshooting for:
+  - Windows OS
+  - Email & browser issues
+  - User access-related problems
+- Maintained resolution logs and followed **SLA / TAT guidelines**
+- Gained hands-on exposure to **Active Directory (AD)**:
+  - Creating and managing users
+  - Managing security groups
+  - Organizing Organizational Units (OUs)
+  - Understanding authentication & access control
+  - Applying basic Group Policy Objects (GPOs)
+
+---
+
+## 🧪 Home Lab Experience (Documentation in Progress)
