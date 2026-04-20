@@ -1,70 +1,99 @@
+# 👋 Hi, I'm Riya Thakare
 
-<h1 align="center">Hi 👋, I'm Riya Thakare</h1>
-<h3 align="center">Service Desk Analyst (L1) | B2B User Support | Ticket Handling & SLA Adherence</h3>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=riya2208&label=Profile%20views&color=0e75b6&style=flat" alt="riya2208" />
-</p>
+🔐 Aspiring SOC Analyst | Cybersecurity Enthusiast | SIEM & Log Analysis Learner  
 
 ---
 
-## 👩‍💻 Professional Summary
+## 🚀 About Me
 
-Entry-level **Service Desk Analyst (L1)** with foundational knowledge of IT service desk operations and **first-point-of-contact support for B2B users**. Familiar with handling user queries via **calls, email, chat, and support portals**, performing **basic troubleshooting**, logging and documenting tickets, and escalating issues as per defined **SOPs**.
+I'm an aspiring **SOC Analyst** with a strong interest in **security monitoring, alert triage, and incident investigation**.  
+I'm currently building hands-on experience through **Splunk, TryHackMe labs, and log analysis practice**.
 
-Strong communication skills with clear awareness of **SLA / TAT adherence**, customer experience, and structured ticket handling in service desk environments.
-
-📍 Pune, Maharashtra  
-📞 +91 77968 13747  
-
----
-
-## 🧰 Core Skills
-
-### 🔹 Service Desk & User Support
-- First-point-of-contact (L1) B2B user support
-- Call, email, chat & portal-based support
-- Incident & service request handling
-- Ticket logging, categorization & prioritization
-- Escalation handling as per SOPs
-- SLA / TAT awareness & adherence
-
-### 🔹 Technical Support (L1 Scope)
-- Windows OS basic troubleshooting
-- Email & browser issue resolution
-- Basic application & access-related issues
-- User guidance & follow-ups
-
-### 🔹 Professional Skills
-- Clear verbal & written communication
-- Active listening & empathy
-- Documentation & resolution notes
-- Customer experience focus
+- 🎓 Bachelor's in Computer Application (BCA) 
+- 🔐 Focused on SOC Analyst Role  
+- 📊 Learning SIEM (Splunk)  
+- 🧠 Practicing Alert Triage & Investigation  
+- 🚀 Actively building hands-on security projects  
 
 ---
 
-## 🧪 Practical Exposure & Training
+## 🛠️ SOC Skills
 
-### IT Help Desk Fundamentals – TCM Security  
-*(Coursework & Practical Exposure)*
-
-- Gained hands-on exposure to **IT Help Desk operations** and L1 user support
-- Acted as **first point of contact** in simulated service desk scenarios
-- Handled user queries via **calls, email, chat, and ticketing portals**
-- Learned **incident & request management lifecycle** in ITSM environments
-- Practiced ticket **logging, categorization, prioritization, and escalation**
-- Performed basic troubleshooting for:
-  - Windows OS
-  - Email & browser issues
-  - User access-related problems
-- Maintained resolution logs and followed **SLA / TAT guidelines**
-- Gained hands-on exposure to **Active Directory (AD)**:
-  - Creating and managing users
-  - Managing security groups
-  - Organizing Organizational Units (OUs)
-  - Understanding authentication & access control
-  - Applying basic Group Policy Objects (GPOs)
+- SIEM Monitoring (Splunk)
+- Alert Triage
+- Log Analysis
+- Incident Investigation
+- Threat Detection
+- MITRE ATT&CK Basics
 
 ---
 
-## 🧪 Home Lab Experience (Documentation in Progress)
+## 💻 Technical Skills
+
+- Windows Event Log Analysis (Event ID 4624, 4625)
+- Networking Fundamentals
+- Linux Basics
+- Security Fundamentals
+- Basic Threat Hunting
+
+---
+
+## 📚 Currently Learning
+
+- Splunk (Log Analysis & Queries)
+- TryHackMe SOC Level 1
+- Incident Investigation
+- Threat Detection & Analysis
+
+---
+
+## 📂 My SOC Projects
+
+### 🔍 Splunk Log Analysis
+- Investigated suspicious login attempts  
+- Analyzed failed login patterns  
+- Detected brute force activity  
+
+### 🚨 Alert Triage Practice
+- True Positive vs False Positive Analysis  
+- Suspicious IP Investigation  
+- Failed Authentication Analysis  
+
+### 🧠 Threat Detection Practice
+- Windows Event Log Investigation  
+- Suspicious Login Detection  
+- Basic Threat Hunting  
+
+---
+
+## 📜 Certifications & Training
+
+- Palo Alto SOC Training
+- Cisco Security Operations Center (SOC) 
+- CEH (Certified Ethical Hacker)
+- TryHackMe SOC Level 1 (In Progress)
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🎯 Career Goal
+
+To start my career as a **SOC Analyst (L1)** and contribute to **threat detection, monitoring, and incident response** while continuously improving my cybersecurity skills.
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/riya-t-571175244/
+- 📧 Email: riyathakare37@gmail.com
+
+---
+
+⭐ I'm actively learning and building hands-on SOC projects  
