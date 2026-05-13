@@ -1,99 +1,186 @@
-# 👋 Hi, I'm Riya Thakare
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+</p>
 
-🔐 Aspiring SOC Analyst | Cybersecurity Enthusiast | SIEM & Log Analysis Learner  
+<h1 align="center">Hi 👋, I'm Riya Thakare</h1>
+
+<h3 align="center">
+SOC Analyst • SIEM Monitoring • Threat Detection • Incident Response
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F72D&center=true&vCenter=true&width=700&lines=SOC+Analyst;Threat+Detection+Enthusiast;SIEM+Monitoring;Microsoft+Sentinel+%7C+Splunk+%7C+Wazuh;Blue+Team+Learner" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Riya2208">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+  </a>
+
+  <a href="https://www.linkedin.com/in/riya-t-571175244/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+  </a>
+
+  <a href="https://tryhackme.com/p/riyathakare37">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme">
+  </a>
+</p>
 
 ---
-
-## 🚀 About Me
-
-I'm an aspiring **SOC Analyst** with a strong interest in **security monitoring, alert triage, and incident investigation**.  
-I'm currently building hands-on experience through **Splunk, TryHackMe labs, and log analysis practice**.
-
-- 🎓 Bachelor's in Computer Application (BCA) 
-- 🔐 Focused on SOC Analyst Role  
-- 📊 Learning SIEM (Splunk)  
-- 🧠 Practicing Alert Triage & Investigation  
-- 🚀 Actively building hands-on security projects  
-
 ---
 
-## 🛠️ SOC Skills
+# 👨‍💻 About Me
 
-- SIEM Monitoring (Splunk)
-- Alert Triage
-- Log Analysis
-- Incident Investigation
+🔹 Entry-level SOC Analyst with hands-on experience in SIEM monitoring, alert investigation, and threat detection using Splunk, Microsoft Sentinel, and Wazuh.
+
+🔹 Skilled in Windows Event Log analysis, brute-force detection, incident qualification, and SOC workflows including triage, escalation, and reporting.
+
+🔹 Passionate about Security Operations, Threat Monitoring, and Blue Teaming.
+
+🔹 Currently focused on improving skills in:
 - Threat Detection
-- MITRE ATT&CK Basics
+- SIEM Engineering
+- Incident Response
+- Log Analysis
+- Detection Engineering
 
 ---
 
-## 💻 Technical Skills
+# 🛡️ Core Skills
 
-- Windows Event Log Analysis (Event ID 4624, 4625)
-- Networking Fundamentals
-- Linux Basics
-- Security Fundamentals
-- Basic Threat Hunting
+## 🔍 SIEM & Monitoring
+- Splunk
+- Microsoft Sentinel
+- Wazuh
+- Alert Triage
+- Event Correlation
 
----
+## 🚨 Security Operations
+- Incident Qualification
+- Threat Investigation
+- Escalation Handling
+- False Positive Analysis
+- SOC Workflow Handling
 
-## 📚 Currently Learning
+## 🧾 ITSM & Ticketing
+- ServiceNow
+- Incident Documentation
+- Ticket Handling
 
-- Splunk (Log Analysis & Queries)
-- TryHackMe SOC Level 1
-- Incident Investigation
-- Threat Detection & Analysis
+## 📊 Log Analysis
+- Windows Event Logs (4624 / 4625)
+- SSH Logs
+- Firewall Logs
+- Linux Syslogs
 
----
+## 🌐 Networking
+- TCP/IP
+- DNS
+- Ports & Protocols
+- HTTP / HTTPS
 
-## 📂 My SOC Projects
+## 🛠️ Tools & Technologies
+- Wireshark
+- Windows
+- Linux
 
-### 🔍 Splunk Log Analysis
-- Investigated suspicious login attempts  
-- Analyzed failed login patterns  
-- Detected brute force activity  
-
-### 🚨 Alert Triage Practice
-- True Positive vs False Positive Analysis  
-- Suspicious IP Investigation  
-- Failed Authentication Analysis  
-
-### 🧠 Threat Detection Practice
-- Windows Event Log Investigation  
-- Suspicious Login Detection  
-- Basic Threat Hunting  
-
----
-
-## 📜 Certifications & Training
-
-- Palo Alto SOC Training
-- Cisco Security Operations Center (SOC) 
-- CEH (Certified Ethical Hacker)
-- TryHackMe SOC Level 1 (In Progress)
-
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
+## ⚔️ Frameworks & Scripting
+- MITRE ATT&CK
+- Python (Basic)
+- PowerShell (Basic)
+- Bash (Basic)
 
 ---
 
-## 🎯 Career Goal
+# 🚀 Projects
 
-To start my career as a **SOC Analyst (L1)** and contribute to **threat detection, monitoring, and incident response** while continuously improving my cybersecurity skills.
+## ☁️ Cloud Honeypot Monitoring & Threat Detection
+### Microsoft Sentinel | Azure
+
+- Configured Azure VM honeypot environment to simulate real-world attack activity
+- Monitored security events and investigated suspicious authentication attempts using Microsoft Sentinel
+- Developed KQL queries to detect brute-force attacks and abnormal login behavior
+- Reviewed Windows Event Logs (4624/4625) to identify unauthorized access attempts
+- Performed alert validation, incident assessment, and escalation following SOC workflows
+- Built dashboards to visualize attack trends and suspicious IP activity
 
 ---
 
-## 📫 Connect With Me
+## 🔐 SSH Security Monitoring & Log Investigation
+### Splunk SIEM
 
-- 💼 LinkedIn: https://www.linkedin.com/in/riya-t-571175244/
-- 📧 Email: riyathakare37@gmail.com
+- Monitored SSH authentication events and analyzed security alerts using Splunk
+- Created SPL queries to identify failed logins and suspicious access patterns
+- Conducted event correlation and preliminary threat investigation
+- Practiced incident documentation and triage procedures
+- Built dashboards for authentication monitoring and security visibility
 
 ---
 
-⭐ I'm actively learning and building hands-on SOC projects  
+# 📜 Certifications
+
+✅ Certified Ethical Hacker (CEH v13)
+
+✅ Palo Alto Networks – SOC Training
+
+✅ Cisco – SOC Foundations Training
+
+---
+
+# 🎓 Education
+
+### Bachelor of Computer Applications (BCA)
+📍 Shri Shivaji Science College, SGBAU University  
+📍 Amravati, Maharashtra  
+📅 2022 – 2025
+
+---
+
+# 📈 Current Focus
+
+```yaml
+Learning:
+  - Advanced SIEM Monitoring
+  - Detection Engineering
+  - Threat Hunting
+  - Incident Response
+  - SOC Automation
+```
+
+---
+
+# 📫 Connect With Me
+
+📍 Amravati, Maharashtra
+
+📧 riyathakare37@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/riya-thakare
+
+---
+
+# ⚡ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 🧠 SOC Analyst Mindset
+
+> Detect. Investigate. Escalate. Defend.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
+</p>
