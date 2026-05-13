@@ -106,7 +106,7 @@ SOC Analyst • SIEM Monitoring • Threat Detection • Incident Response
 
 ---
 
-## 🔐 SSH Security Monitoring & Log Investigation
+## 🔐 SSH Log Analysis Lab using Splunk
 ### Splunk SIEM
 
 - Monitored SSH authentication events and analyzed security alerts using Splunk
