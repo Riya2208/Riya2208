@@ -94,27 +94,11 @@ SOC Analyst • SIEM Monitoring • Threat Detection • Incident Response
 
 # 🚀 Projects
 
-## ☁️ Cloud Honeypot Monitoring & Threat Detection
-### Microsoft Sentinel | Azure
-
-- Configured Azure VM honeypot environment to simulate real-world attack activity
-- Monitored security events and investigated suspicious authentication attempts using Microsoft Sentinel
-- Developed KQL queries to detect brute-force attacks and abnormal login behavior
-- Reviewed Windows Event Logs (4624/4625) to identify unauthorized access attempts
-- Performed alert validation, incident assessment, and escalation following SOC workflows
-- Built dashboards to visualize attack trends and suspicious IP activity
-
----
-
-## 🔐 SSH Log Analysis Lab using Splunk
-### Splunk SIEM
-
-- Monitored SSH authentication events and analyzed security alerts using Splunk
-- Created SPL queries to identify failed logins and suspicious access patterns
-- Conducted event correlation and preliminary threat investigation
-- Practiced incident documentation and triage procedures
-- Built dashboards for authentication monitoring and security visibility
-
+### [☁️ Cloud Honeypot Monitoring & Threat Detection](https://github.com/YOUR_USERNAME/azure-sentinel-honeypot)
+* Documentation(In Progress)
+### [🔐 SSH Log Analysis Lab using Splunk](https://github.com/Riya2208/SSH_Log_Analysis)
+### [🛡️ Signature Based Detection Lab](https://github.com/Riya2208/Signature_Based_Det_Lab)
+### [🔥 Host-Based Firewall Lab](https://github.com/Riya2208/Firewall_lab)
 ---
 
 # 📜 Certifications
