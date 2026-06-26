@@ -94,8 +94,6 @@ SOC Analyst • SIEM Monitoring • Threat Detection • Incident Response
 
 # 🚀 Projects
 
-### [☁️ Cloud Honeypot Monitoring & Threat Detection](https://github.com/YOUR_USERNAME/azure-sentinel-honeypot)
-* Documentation(In Progress)
 ### [🔐 SSH Log Analysis Lab using Splunk](https://github.com/Riya2208/SSH_Log_Analysis)
 ### [🛡️ Signature Based Detection Lab](https://github.com/Riya2208/Signature_Based_Det_Lab)
 ### [🔥 Host-Based Firewall Lab](https://github.com/Riya2208/Firewall_lab)
