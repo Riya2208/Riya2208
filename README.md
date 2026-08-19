@@ -50,7 +50,6 @@ SOC Analyst • SIEM Monitoring • Threat Detection • Incident Response
 
 ## 🔍 SIEM & Monitoring
 - Splunk
-- Microsoft Sentinel
 - Wazuh
 - Alert Triage
 - Event Correlation
@@ -97,6 +96,7 @@ SOC Analyst • SIEM Monitoring • Threat Detection • Incident Response
 ### [🔐 SSH Log Analysis Lab using Splunk](https://github.com/Riya2208/SSH_Log_Analysis)
 ### [🛡️ Signature Based Detection Lab](https://github.com/Riya2208/Signature_Based_Det_Lab)
 ### [🔥 Host-Based Firewall Lab](https://github.com/Riya2208/Firewall_lab)
+### [Phishing Analysis](Documentaion In-progress)
 ---
 
 # 📜 Certifications
@@ -155,6 +155,6 @@ Learning:
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" alt="profile views"/>
-</p>
+</p> -->
